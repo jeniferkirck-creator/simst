@@ -1,0 +1,10 @@
+{
+  "server": {
+    "target_link": "https://myserver/config",
+    "report_link": "https://myserver/report",
+    "register_link": "https://myserver/register"
+  },
+  "test_duration": 30,
+  "request_timeout": 100,
+  "result_file_patch": "./result.txt"
+}

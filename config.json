@@ -1,0 +1,7 @@
+{
+  "target_file_patch": "./cfg.json",
+  "host_link": "",
+  "test_duration": 30,
+  "request_timeout": 100,
+  "result_file_patch": "./result.txt"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "target_host": "www.target_host.com",
+    "target_port": 443,
+    "source_port": 8989,
+    "source_ip": "0.0.0.1",
+    "target_ip": "187.0.0.1",
+    "target_query": "/home",
+    "headers": {
+      "Authorization": [""]
+    },
+    "cookies": {
+      "cookie_one": ""
+    },
+    "type": 68,
+    "payload": "",
+    "with_randomizer": true,
+    "with_random_agent": true,
+    "with_random_source_ip_and_port": true
+  }, {
+    "target_host": "www.target_host.com",
+    "target_port": 443,
+    "source_port": 8989,
+    "source_ip": "0.0.0.1",
+    "target_ip": "187.0.0.1",
+    "type": 1,
+    "with_randomizer": false,
+    "with_random_agent": false,
+    "with_random_source_ip_and_port": false,
+    "packet_sequence_number": 34532
+  }
+]
